@@ -6,6 +6,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Clarify</title>
         <item>
+            <title>0.9.47</title>
+            <pubDate>Mon, 12 Oct 2026 11:55:01 +0800</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>0.9.47</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/tamler/clarify-releases/releases/download/v0.9.47/Clarify-0.9.47.dmg" length="1342488203" type="application/octet-stream" sparkle:edSignature="PG8iicCCcO4uPJ36tpewU5VlZlSJrgBc4sFxund57/N6DpZvxz41jnIvC7k2+3bbpCvMqlqDWUZRwHnJTzfWBg=="/>
+        </item>
+        <item>
             <title>0.9.46</title>
             <pubDate>Sat, 10 Oct 2026 16:35:27 +0800</pubDate>
             <sparkle:version>59</sparkle:version>
@@ -23,18 +32,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/tamler/clarify-releases/releases/download/v0.9.45/Clarify-0.9.45.dmg" length="1342428364" type="application/octet-stream" sparkle:edSignature="7ITmF8YlCaFJ4pRM4x4kHejdhDgXHH1jV0bZkLdkNmBS9fGt266lfsSo/ddROBZVahxJtRBuN9dPfUhOWzcxDQ=="/>
         </item>
-        <item>
-            <title>0.9.44</title>
-            <pubDate>Fri, 09 Oct 2026 15:20:03 +0800</pubDate>
-            <sparkle:version>57</sparkle:version>
-            <sparkle:shortVersionString>0.9.44</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/tamler/clarify-releases/releases/download/v0.9.44/Clarify-0.9.44.dmg" length="1342399312" type="application/octet-stream" sparkle:edSignature="6MGWAkvOLQ7uvse6/9wfBNEwnHqC0qw/fSYZiaxP08I/x1M0jBH4TU7dJZW/dFYQS1t/JvuPGGtaLFYqJKygBw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: cyOGC9w55OmJpDSYiSG3cAg03kVPL9i3bpVEzzd1dqo9lG2RNsLCNwKUJ037kczlxDBUPSCS8Em9pJI8oWgeAA==
+edSignature: /piQXz+ZcZBNJQDM6upRHvIqeiIz2QX0L5YgWIX5tEf/XU5CHWkMxp81By0VGWnlVh3AGazaPNiOlQBfp0cKDQ==
 length: 2510
 -->
